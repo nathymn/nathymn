@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nathymn
-- 👀 I’m interested in anything
-- 🌱 I’m currently learning several things
-- 📫 How to reach me @only.yamani on Instragam
+- 🌱 I’m currently learning several things in software engineer...
+- 📫 How to reach me @sxnatti on Instragam
 
 <!---
 nathymn/nathymn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
