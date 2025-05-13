@@ -11,7 +11,7 @@ Quando não estou programando, você pode me encontrar praticando esportes, lend
 
 ## 🛠 Tecnologias que uso
 - **Linguagens**: Python, C/C++, C#
-- **Web**: HTML, CSS, JavaScript
+- **Web**: HTML, CSS, JavaScript, PHP
 - **Banco de Dados**: MySQL
 - **Ferramentas**: Git, Figma  
 
